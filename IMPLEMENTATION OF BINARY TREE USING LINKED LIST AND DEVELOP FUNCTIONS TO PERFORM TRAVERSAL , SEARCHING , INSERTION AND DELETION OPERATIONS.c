@@ -1,4 +1,4 @@
-C program to implement a binary tree using linked list and develop functions to perform traversal, searching, insertion and deletion operations.
+//C program to implement a binary tree using linked list and develop functions to perform traversal, searching, insertion and deletion operations.
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
